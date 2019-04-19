@@ -1,1 +1,6 @@
+
   Welcome to the kingdom of krishi
+  what is git
+
+  how it is differ from svn
+ 
