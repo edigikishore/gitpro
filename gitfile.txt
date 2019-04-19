@@ -3,6 +3,11 @@
   what is git
 
   how it is differ from svn
+<<<<<<< HEAD
   jenkins is a ci/cd java based tool
+=======
+  what is docker
+ docker is a os level virtualisation
+>>>>>>> newbranch
  
 what is 
