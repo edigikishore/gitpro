@@ -3,4 +3,6 @@
   what is git
 
   how it is differ from svn
+  what is docker
+ docker is a os level virtualisation
  
